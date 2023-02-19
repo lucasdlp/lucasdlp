@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucasdlp
 - 👀 I'm interested in developpement web
-- 🌱 I'm currently learning JavaScript and React 
+- 🌱 I'm currently learning ReactJs
 
 <!---
 lucasdlp/lucasdlp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
