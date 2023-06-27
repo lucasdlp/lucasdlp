@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @lucasdlp
-- 👀 I'm interested in developpement web
-- 🌱 I'm currently learning ReactJs
+Lucas Deleporte
+16 ans
+France 🥐
 
-<!---
-lucasdlp/lucasdlp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</>
+Html, CSS, Sass, Javascript, ReactJS ⚛️
