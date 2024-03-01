@@ -1,6 +1,5 @@
 Lucas Deleporte
-16 ans
+17 ans
 France 🥐
 
-</>
-Html, CSS, Sass, Javascript, ReactJS ⚛️
+⌛🧠
