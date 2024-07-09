@@ -6,7 +6,7 @@
 
 <h3 align="left">Learning</h3>
 <p align="left">
-  Python and Artificial Intelligence
+  C++ 🧠
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
